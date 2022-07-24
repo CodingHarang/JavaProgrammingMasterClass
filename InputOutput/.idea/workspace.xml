@@ -36,7 +36,7 @@
       <recent name="D:\Programming\Java\JavaProgrammingMasterClass\InputOutput\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Locations">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Locations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Locations" />
       <module name="InputOutput" />
@@ -51,10 +51,18 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ShiftInt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ShiftInt" />
+      <module name="InputOutput" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Locations" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.ShiftInt" />
+        <item itemvalue="Application.Locations" />
       </list>
     </recent_temporary>
   </component>
