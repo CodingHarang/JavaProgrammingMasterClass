@@ -1,23 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="93857b57-8770-4443-9223-a3f2414f48fb" name="Changes" comment="" />
+    <list default="true" id="e6570af4-1552-43a5-8c95-6807b63c040c" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2CNVuOlgbhquphfhlX53kP8dn2B" />
+  <component name="ProjectId" id="2CZLukvOl63wRX8NJtjV4ytCW90" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -26,42 +19,45 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "D:/Programming/Java/JavaProgrammingMasterClass/InputOutput",
+    "last_opened_file_path": "D:/Programming/Java/JavaProgrammingMasterClass/InputOutputNIO",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
     "settings.editor.selected.configurable": "preferences.sourceCode.Other File Types"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\Programming\Java\JavaProgrammingMasterClass\InputOutput" />
-      <recent name="D:\Programming\Java\JavaProgrammingMasterClass\InputOutput\src" />
+      <recent name="D:\Programming\Java\JavaProgrammingMasterClass\InputOutputNIO" />
+      <recent name="D:\Programming\Java\JavaProgrammingMasterClass\InputOutputNIO\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.Locations">
     <configuration name="Locations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Locations" />
-      <module name="InputOutput" />
+      <module name="InputOutputNIO" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="InputOutput" />
+      <module name="InputOutputNIO" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="ShiftInt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ShiftInt" />
-      <module name="InputOutput" />
+      <module name="InputOutputNIO" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Locations" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.ShiftInt" />
       </list>
     </recent_temporary>
@@ -69,11 +65,11 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="93857b57-8770-4443-9223-a3f2414f48fb" name="Changes" comment="" />
-      <created>1658643254943</created>
+      <changelist id="e6570af4-1552-43a5-8c95-6807b63c040c" name="Changes" comment="" />
+      <created>1659005387173</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1658643254943</updated>
+      <updated>1659005387173</updated>
     </task>
     <servers />
   </component>
